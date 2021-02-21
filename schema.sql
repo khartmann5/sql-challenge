@@ -85,12 +85,12 @@ ALTER TABLE salaries
 
 
 -- Drop tables
-DROP TABLE departments CASCADE;
-DROP TABLE titles CASCADE;
-DROP TABLE employees CASCADE;
-DROP TABLE dept_emp CASCADE;
-DROP TABLE dept_manager CASCADE;
-DROP TABLE salaries CASCADE;
+-- DROP TABLE departments CASCADE;
+-- DROP TABLE titles CASCADE;
+-- DROP TABLE employees CASCADE;
+-- DROP TABLE dept_emp CASCADE;
+-- DROP TABLE dept_manager CASCADE;
+-- DROP TABLE salaries CASCADE;
 
 -- Show tables
 SELECT * FROM departments;
