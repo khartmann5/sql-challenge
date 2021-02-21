@@ -7,3 +7,6 @@
 4. dept_emp
 5. dept_manager
 6. salaries
+
+## ERD 
+![ERD](Images/ERD.png)
