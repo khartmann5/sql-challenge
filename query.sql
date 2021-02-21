@@ -54,3 +54,8 @@ SELECT last_name, COUNT(last_name) AS "Count of employee last names"
 FROM employees
 GROUP BY last_name
 ORDER BY "Count of employee last names" DESC;
+
+-- Search my ID number of 499942
+SELECT first_name, last_name
+FROM employees
+WHERE emp_no = '499942';
