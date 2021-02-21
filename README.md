@@ -9,4 +9,4 @@
 6. salaries
 
 ## ERD 
-![ERD](Images/ERD.png)
+![ERD](Images/DatabaseDiagram.png)
