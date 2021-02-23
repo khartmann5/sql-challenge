@@ -12,4 +12,5 @@
 ![ERD](Images/DatabaseDiagram.png)
 
 ## Histogram of Salary Ranges
-![Histogram_Salary_Ranges](Images/histogram_salary_ranges.png)
+![Histogram](Images/histogram_salary_ranges.png)
+
