@@ -10,3 +10,6 @@
 
 ## ERD 
 ![ERD](Images/DatabaseDiagram.png)
+
+## Histogram of Salary Ranges
+![Historgram of Salary Ranges](Images/histogram_salary_ranges.png)
