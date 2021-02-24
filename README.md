@@ -14,3 +14,6 @@
 ## Histogram of Salary Ranges
 ![Histogram](Images/histogram_salary_ranges.png)
 
+## Bar chart of Average Salary by Title
+![barchart](Images/avg_salary_title.png)
+
