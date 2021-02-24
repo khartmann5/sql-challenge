@@ -12,7 +12,7 @@
 ![ERD](Images/DatabaseDiagram.png)
 
 ## Histogram of Salary Ranges
-![Histogram](Images/histogram_salary_ranges.png)
+![histogram_salary](Images/histogram_salary_ranges.png)
 
 ## Bar chart of Average Salary by Title
 ![barchart_avgsalary](Images/avg_salary_title.png)
